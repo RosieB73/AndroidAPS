@@ -36,6 +36,6 @@ class Objective3 @Inject constructor(
 
     companion object {
 
-        private const val MANUAL_ENACTS_NEEDED = 20
+        private const val MANUAL_ENACTS_NEEDED = 4
     }
 }
